@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:maps/constant/dimens.dart';
-
 import 'screen/maps_screen.dart';
 
 void main() {
